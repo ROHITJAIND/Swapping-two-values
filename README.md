@@ -2,7 +2,7 @@
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
-PC
+PC -
 Anaconda - Python 3.7
 ## ALGORITHM: 
 - Step 1:  
@@ -31,6 +31,5 @@ print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
 ![OUTPUT](./images/output.png)
-
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
