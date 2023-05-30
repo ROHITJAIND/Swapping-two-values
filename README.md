@@ -11,7 +11,7 @@ To write a python program for swapping of two values
 - Step 5: Print both the values it would be interchanged.
 - Step 6: End the program.
 ## PROGRAM:
-```
+```Python
 #Program to swap two values.
 #Developed by: ROHIT JAIN D
 #RegisterNumber: 212222230120
@@ -23,6 +23,7 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![OUTPUT](./images/output.png)
-## RESULT:
+<img height=12% width=60% src="./images/output.png">  
+
+## RESULT:  
 Thus the swapping of two values are successfully executed.
